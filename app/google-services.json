@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622677851379",
+    "firebase_url": "https://smartreceipt-46bc1.firebaseio.com",
+    "project_id": "smartreceipt-46bc1",
+    "storage_bucket": "smartreceipt-46bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622677851379:android:cac37377dd0b6f93",
+        "android_client_info": {
+          "package_name": "com.anirudh.android.smartreceipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622677851379-0nf0lebk4mpftqvhvjanttggg4nvp4ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8nhd8Jw5rBcZsCPwv8vbXgylCh_Y9zc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

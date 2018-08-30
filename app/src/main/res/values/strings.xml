@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">smartReceipt</string>
+    <string name="editTextEmail">Email</string>
+    <string name="editTextPassword">Password</string>
+    <string name="buttonSignIn">SignIn</string>
+    <string name="buttonRegister">Register</string>
+    <string name="buttonDirectSignIn">Direct Sign In</string>
+
+    <string name="editTextOctopus">Octopus Number</string>
+    <string name="textViewWelcome">Welcome</string>
+</resources>
